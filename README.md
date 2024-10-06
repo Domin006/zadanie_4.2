@@ -9,3 +9,7 @@ if "word".isalnum() == True:
     print("True")
 elif "word".isalnum() == False:
     print("False")
+
+palindrome("kajko")
+palindrome("potop")
+palindrome("kajak")
