@@ -13,3 +13,6 @@ elif "word".isalnum() == False:
 palindrome("kajko")
 palindrome("potop")
 palindrome("kajak")
+palindrome("domino")
+palindrome("abcdcba")
+palindrome("worddrow")
